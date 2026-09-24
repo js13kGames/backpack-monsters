@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - rpg
+  - casual
 post: https://blog.slashie.net/2019/09/22/backpack-monsters-js13k-2019/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
